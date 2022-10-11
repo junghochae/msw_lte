@@ -1,8 +1,0 @@
-{
-    "name": "lib_webrtc_crow",
-    "target": "armv6",
-    "description": "[name]",
-    "scripts": "./lib_webrtc_crow",
-    "data": [],
-    "control": ["Control"]
-}
