@@ -2,7 +2,7 @@
   "name": "lib_lte",
   "target": "armv6",
   "description": "[name] [portnum] [baudrate]",
-  "scripts": "./lib_lte /dev/ttyUSB1 9600",
+  "scripts": "./lib_lte /dev/ttyUSB1 123456",
   "data": [
     "LTE"
   ],
